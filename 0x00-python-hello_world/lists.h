@@ -8,8 +8,8 @@
  * @n: Integer
  * @next: Points to next node
  *
- * Description: linkedsingly list node structure
- * for Best School project
+ * Description: linked singly list node structure
+ * For Holberton School project
  */
 typedef struct listint_s
 {
