@@ -4,12 +4,12 @@
 #include <stdlib.h>
 
 /**
- * struct listint_s - linked list singly
+ * struct listint_s - Singly linked list
  * @n: Integer
  * @next: Points to next node
  *
- * Description: linked singly list node structure
- * For Holberton School project
+ * Description: Singly linked list node structure
+ * For Best School project
  */
 typedef struct listint_s
 {
