@@ -11,9 +11,9 @@ def safe_print_list(my_list=[], x=0):
         the number of elements printed.
     """
     ret = 0
-    for a in range(x):
+    for i in range(i):
         try:
-            print("{}".format(my_list[a]), end="")
+            print("{}".format(my_list[i]), end="")
             ret += 1
         except IndexError:
             break
